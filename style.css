@@ -1,0 +1,40 @@
+body
+{background-color: lightskyblue;}
+
+header
+{text-align:center; background-color: mediumpurple}
+
+nav
+{background-color: aquamarine; width: 20%;height: 750px;
+font-size: 25pt; float:left; margin: 10px; border: 5px solid midnightblue;}
+
+
+img.bros
+{float: right;width:200px; height: 250px; padding: 40px;}
+img.netflix
+{float: right; height: 250px; width: 250px;padding: 40px;}
+img.fam
+{float: right;width:250px; height: 200px;padding: 40px;}
+img.lake
+{float: right;width:250px; height: 200px;padding: 40px;}
+img.umo
+{float: right;width:250px; height: 250px;padding: 40px;}
+img.ghs
+{float: right;width:250px; height: 250px;padding: 40px;}
+
+a{color: darkblue;text-decoration: none}
+a:hover{color:red}
+
+ul.mini {font-size: 20pt;}
+
+section.education
+{background-color:white; width: 75%; float: right; border: 5px solid midnightblue;margin:10px; font-size:20pt;}
+
+header
+{border: 5px solid midnightblue;padding: 10px; margin: 10px;}
+
+h3.cent
+{text-align:center;}
+
+section.education2
+{background-color:white; width: 98%; float: right; border: 5px solid midnightblue;margin:10px; font-size:15pt;}
